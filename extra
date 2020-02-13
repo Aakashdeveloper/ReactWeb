@@ -1,0 +1,41 @@
+**NodejS Must bee installed
+> https://nodejs.org/en/
+
+#Window
+(React)
+> Open you cmd as admin
+> npm i -g create-react-app
+> Navigate to folder where you want to genrate application
+> create-react-app <appname>
+> cd <appname>
+> npm start
+
+#Window
+(Redux)
+> Open you cmd as admin
+> npm i -g create-redux-apps
+> Navigate to folder where you want to genrate application
+> reduxapp <appname>
+> cd <appname>
+> npm start
+
+
+/////////
+Mac/Linux
+
+(React)
+> Open yourr Terminal
+> sudo npm i -g create-react-app
+> Navigate to folder where you want to genrate application
+> create-react-app <appname>
+> cd <appname>
+> npm start
+
+#Window
+(Redux)
+> Open your Terminal
+> sudo npm i -g create-redux-apps
+> Navigate to folder where you want to genrate application
+> reduxapp <appname>
+> cd <appname>
+> npm start
